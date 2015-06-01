@@ -1,0 +1,2 @@
+defmodule CloudAtlas do
+end
